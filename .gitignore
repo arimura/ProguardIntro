@@ -117,4 +117,5 @@ lint/tmp/
 # Android Profiling
 *.hprof
 
-
+# other
+output-metadata.json
